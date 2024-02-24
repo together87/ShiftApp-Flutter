@@ -1,2 +1,3 @@
-# ShiftApp-Flutter
-ShiftApp developed in Flutter for USA shift work proposals and orders
+# beamcoda_jobs_flutter
+
+This project is a part of the codajobs app from BeamCoda.com.
